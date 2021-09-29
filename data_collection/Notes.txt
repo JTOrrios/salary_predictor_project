@@ -1,0 +1,7 @@
+SOURCE OF DATASETS: https://www.kaggle.com/gawainlai/us-data-science-job-salary-regression-w-visuals/data?select=DataScientist.csv
+
+Original plan was to use selenium, possibly in combination with beautifulSoup, however Glassdoor, LinkedIn, and Indeed have all hardened their websites against scraping tools.
+
+This has made it incredibly difficult to justify committing the time to source my own data when data collection is not something that is highly valued in Data Scienctist.
+
+I would much rather focus on the data cleaning, EDA, and model building using machine learning techniques!
